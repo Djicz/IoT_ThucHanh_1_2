@@ -1,12 +1,6 @@
 # BÀI 2: MÔ PHỎNG CẢM BIẾN NHIỆT ĐỘ VÀ ĐỘ ẨM BẰNG MQTT
 
-## 1. Thông tin sinh viên
-- **Họ và tên:** Tên sinh viên
-- **Mã sinh viên:** Mã sinh viên
-
----
-
-## 2. Broker sử dụng
+## 1. Broker sử dụng
 - **Tên Broker:** Local Eclipse Mosquitto Broker
 - **Host / IP:** `localhost`
 - **Port:** `1883`
@@ -15,7 +9,7 @@
 
 ---
 
-## 3. Cách chạy từng chương trình
+## 2. Cách chạy từng chương trình
 
 Mở **2 cửa sổ Terminal**:
 
@@ -33,7 +27,7 @@ Mở **2 cửa sổ Terminal**:
 
 ---
 
-## 4. Kết quả đạt được
+## 3. Kết quả đạt được
 
 ### Output tại Terminal Sensor Publisher:
 ```text
